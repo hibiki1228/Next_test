@@ -1,5 +1,5 @@
 // ./pages/_app.js
-import initAuth from '../initAuth' // the module you created above
+import initAuth from '../../../initAuth' // the module you created above
 
 initAuth()
 
